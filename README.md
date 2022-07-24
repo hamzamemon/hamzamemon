@@ -30,7 +30,7 @@ Hello! I have a Bachelor of Science in Computer Science from [Siena College](htt
 - ✈️ Software Developer working for American Airlines
 - 📝 Checkout my [Resume](https://github.com/hamzamemon/resume/blob/master/resume.pdf)
 - ⌛ In my free time, I enjoy learning new things, playing video games, reading comics and watching shows/movies
-- [<img src="https://raw.githubusercontent.com/hamzamemon/hamzamemon/main/res/arch.svg" height="20em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑
+- [<img src="https://raw.githubusercontent.com/hamzamemon/hamzamemon/main/res/arch.svg" height="20em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) btw I use Arch
 
 <br />
 
